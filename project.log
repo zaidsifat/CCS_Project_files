@@ -1,0 +1,26 @@
+
+
+!CONFIGURATION: 'Debug' (com.ti.ccstudio.buildDefinitions.C2000.Debug.551613576) [Mon Sep 25 16:41:47 IST 2023]
+
+	!TOOL: 'C2000 Compiler' (com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.compilerDebug.478207488)
+
+		!WARNING: Unresolved target-tool option 'com.ti.ccstudio.buildDefinitions.C2000_6.2.compilerID.ADVICE__PERFORMANCE'
+
+		!WARNING: Unresolved target-tool option 'com.ti.ccstudio.buildDefinitions.C2000_6.2.compilerID.ABI'
+
+
+
+!CONFIGURATION: 'Debug' (com.ti.ccstudio.buildDefinitions.C2000.Debug.551613576) [Thu Oct 05 16:25:45 IST 2023]
+
+	!TOOL: 'C2000 Compiler' (com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.compilerDebug.82713198)
+
+		!WARNING: Unresolved target-tool option 'com.ti.ccstudio.buildDefinitions.C2000_6.2.compilerID.ABI'
+
+
+
+!CONFIGURATION: 'Debug' (com.ti.ccstudio.buildDefinitions.C2000.Debug.551613576) [Sat Oct 07 14:35:18 IST 2023]
+
+	!TOOL: 'C2000 Compiler' (com.ti.ccstudio.buildDefinitions.C2000_6.2.exe.compilerDebug.772816732)
+
+		!WARNING: Unresolved target-tool option 'com.ti.ccstudio.buildDefinitions.C2000_6.2.compilerID.ABI'
+
